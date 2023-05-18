@@ -1,0 +1,20 @@
+.stat__list {
+  list-style: none;
+  padding: 0;
+}
+
+.stat__item {
+}
+
+.stat__name {
+  font-size: 25px;
+}
+
+.stat__value {
+  color: #e91e63;
+  font-size: 30px;
+}
+
+.list__icon {
+  margin-right: 20px;
+}
